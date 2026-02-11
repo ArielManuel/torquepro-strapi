@@ -127,5 +127,5 @@ exports
 .strapi
 dist
 build
-.strapi-updater.json
+-updater.json
 .strapi-cloud.json
